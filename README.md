@@ -2,9 +2,9 @@
 
 ![Fargo North High](Fargo_North_High_School_south_side.jpeg)
 
-Information for the 50th reunion of the Fargo North High class of 1975. 
+Information for the 50th reunion of the Fargo North High class of 1975.
 
-Built with the [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/). 
+Built with the [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/).
 
 
 ## Getting Started
@@ -27,7 +27,7 @@ npm install
 npm run dev
 ```
 
-4. Generate a production-ready build 
+4. Generate a production-ready build
 
 ```
 npm run build
@@ -46,4 +46,3 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
   - `_includes/layouts/home.njk`: the home page template (wrapped into `base.njk`)
   - `_includes/layouts/post.njk`: the blog post template (wrapped into `base.njk`)
 - `_includes/postslist.njk` is a Nunjucks include and is a reusable component used to display a list of all the posts. `content/index.njk` has an example of how to use it.
-

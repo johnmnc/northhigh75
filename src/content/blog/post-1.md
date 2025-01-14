@@ -11,6 +11,6 @@ Spoiler alert! Watch for details on this feed for this Epic Event to be held at 
 
 <!--more-->
 
-**Facebook group:**  
+**Facebook group:**
 We have a Facebook group for the Class of 1975: [Fargo North Class of 1975](https://www.facebook.com/share/g/14rk8m7u5Kh/). Sign up for more reunion notifications.
 
