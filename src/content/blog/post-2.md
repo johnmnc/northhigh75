@@ -2,7 +2,7 @@
 type: Post
 slug: post-2
 title: Spartan Scroll
-date: '2025-01-03'
+date: '2025-01-05'
 description: >-
   North High School newspaper
 image: /images/V10-N01.jpeg
