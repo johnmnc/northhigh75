@@ -20,10 +20,10 @@
     "hero": {
         "type": "Hero",
         "title": "Fargo North High Class of 1975",
-        "text": "Welcome to the Reunion page for the Class of 1975.",
+        "text": "Welcome to the Reunion page for the Class of 1975.\n\nQuick links:<ul><li>[50th reunion](blog/post-1)</li><li>[Past reunions](blog/post-5)</li><li>[Spartan Scroll](blog/post-2)</li></ul>",
         "image": {
             "src": "/images/spartan.jpeg",
-            "alt": "Alt text"
+            "alt": "A spartan"
         }
     },
     "copyrightText": "© 2025 John Moen. All rights reserved."
