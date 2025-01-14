@@ -1,0 +1,30 @@
+{
+    "type": "Config",
+    "title": "Fargo North High Class of 1975",
+    "url": "https://fargonorthhigh75.info/",
+    "description": "Collected information about the Fargo North High Class of 75.",
+    "navLinks": [
+        {
+            "label": "Home",
+            "url": "/"
+        },
+        {
+            "label": "About",
+            "url": "/about"
+        },
+        {
+            "label": "Blog",
+            "url": "/blog"
+        }
+    ],
+    "hero": {
+        "type": "Hero",
+        "title": "Fargo North High Class of 1975",
+        "text": "Welcome to the Reunion page for the Class of 1975.",
+        "image": {
+            "src": "/images/spartan.jpeg",
+            "alt": "Alt text"
+        }
+    },
+    "copyrightText": "© 2025 John Moen. All rights reserved."
+}
