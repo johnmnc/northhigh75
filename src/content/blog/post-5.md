@@ -24,6 +24,3 @@ description: >-
 <p><a href="https://drive.proton.me/urls/SW8P5YDNMC#g39jUYqxXnwT" target="_blank">The reunion booklet (public version)</a></p>
 
 <p><a href="https://drive.proton.me/urls/N6R7GYJ7P8#ZCYbHZkfxj38" target="_blank">The reunion booklet (full version, password needed)</a></p>
-
-
-

@@ -42,4 +42,3 @@ I have issues of our school newspaper, The Spartan Scroll, which have been scann
 <a href="https://drive.proton.me/urls/338M3A3NVC#AUpTdzfvnYhH" target="_blank">Spartan Scroll V09 N04 - Jan 18, 1974</a>
 
 <a href="https://drive.proton.me/urls/1XZDKJXWEG#pU6mWA2jSmoH" target="_blank">Spartan Scroll V09 N06 - Feb 22, 1974</a>
-
