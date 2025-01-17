@@ -1,11 +1,9 @@
 ---
 type: Post
 slug: post-4
-title: Theater ticket stubs
-date: '2025-01-03'
+title: 1975 Top 25 Billboard Hits
+date: '2025-01-06'
 description: >-
-  Ticket stubs from North High theater
-image: /images/North_High_theater_tickets.jpeg
+  Here are the Bilboard Top 25 hits from 1975!
+image: /images/1975_Top_25_Billboard_Hits.jpeg
 ---
-
-Here are some of the North High theater ticket stubs I saved.

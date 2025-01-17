@@ -1,8 +1,8 @@
 ---
 type: Post
-slug: post-5
+slug: post-6
 title: Graduation program
-date: '2025-01-01'
+date: '2025-01-10'
 description: >-
   Graduation program
 ---
