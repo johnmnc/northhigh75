@@ -16,7 +16,7 @@ const latestPostsCount = 2;
         </div>
         {% if metadata.hero.image %}
             <figure class="flex-1 w-full">
-                <img class="object-cover w-full h-full" src={{ metadata.hero.image.src | url }} eleventy:widths="640" eleventy:formats="webp" loading="lazy" decoding="async" alt="{{ metadata.hero.image.alt }}" data-sb-field-path=".image.src" />
+                <img class="object-scale-down" src={{ metadata.hero.image.src | url }} eleventy:widths="640" eleventy:formats="webp" loading="lazy" decoding="async" alt="{{ metadata.hero.image.alt }}" data-sb-field-path=".image.src" />
             </figure>
         {% endif %}
     </section>
