@@ -8,7 +8,7 @@ description: >-
 image: /images/save_the_date.jpeg
 ---
 
-Check the [reunion page](https://www.alumniclass.com/north-high-school-spartans-fargo-nd/reunion-class-of-1975/?r=119424) and our [facebook group](https://www.facebook.com/groups/243996008974327/) for details and RSVPs
+Check the <a href='https://www.alumniclass.com/north-high-school-spartans-fargo-nd/reunion-class-of-1975/?r=119424' target='_blank'>reunion details (RSVP)</a> and our <a href='https://www.facebook.com/groups/243996008974327/' target='_blank'>Facebook group</a> for details and RSVPs
 
 ### Events
 **Tour of North High**
