@@ -17,7 +17,7 @@ description: >-
 
 
 
-### 10th reunion (2085)
+### 10th reunion (1985)
 
 <p align="center"><a href="/assets/FNHS 1975 10-year class reunion.jpeg"><img class="w-full" eleventy:widths="960" eleventy:formats="webp" height="155px" width="155px" src="/images/FNHS 1975 10-year class reunion.jpeg" alt="1985 reunion"></a></p>
 
