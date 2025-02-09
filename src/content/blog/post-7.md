@@ -8,7 +8,7 @@ description: >-
 ---
 
 
-<p align="center"><img eleventy:widths="300" eleventy:formats="webp" height="155px" width="155px" src="/images/reunion.jpeg" alt="Reunions"></a></p>
+<p align="center"><img eleventy:widths="300" eleventy:formats="webp" height="155px" width="155px" src="/images/reunion.jpeg" alt="Reunions"></p>
 
 ### 40th reunion (2015)
 
