@@ -1,7 +1,7 @@
 ---
 type: Post
 slug: post-12
-title: 1971 yearbook (8th grade)
+title: 1971 Yearbook (8th grade)
 date: '2025-07-07'
 description: >-
   Add 1971 yearbook (8th grade)

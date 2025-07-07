@@ -1,15 +1,15 @@
 ---
 type: Post
 slug: post-8
-title: Yearbook
+title: 1975 Yearbook
 date: '2025-02-09'
 description: >-
-  Some pages from the yearbook
+  Some pages from the 1975 yearbook
 ---
 
 <p align="center"><a href="https://drive.proton.me/urls/MCVMHTYADC#47QygjDqOiVw" target="_blank"><img eleventy:widths="300" eleventy:formats="webp" height="155px" width="155px" src="/images/1975-yearbook.jpg" alt="1975 yearbook"></a></p>
 
-I have scanned selected pages from our yearbook. The set of pages for our senior pictures is included.
+I have scanned selected pages from our 1975 yearbook. The set of pages for our senior pictures is included.
 
 
 <p>Click on the image above for the PDF file, or 

@@ -1,7 +1,7 @@
 ---
 type: Post
 slug: post-9
-title: Yearbook
+title: 1974 Yearbook
 date: '2025-05-09'
 description: >-
   Add 1974 yearbook (junior year)

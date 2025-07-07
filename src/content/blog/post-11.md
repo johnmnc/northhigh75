@@ -1,7 +1,7 @@
 ---
 type: Post
 slug: post-11
-title: 1973 yearbook
+title: 1973 Yearbook
 date: '2025-06-06'
 description: >-
   Add 1973 yearbook (sophmore year)

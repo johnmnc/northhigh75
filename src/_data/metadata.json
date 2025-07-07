@@ -20,7 +20,7 @@
     "hero": {
         "type": "Hero",
         "title": "Fargo North High Class of 1975",
-        "text": "Welcome to the Reunion page for the Class of 1975.\nQuick links:<table><tr><td><a href='https://www.alumniclass.com/north-high-school-spartans-fargo-nd/reunion-class-of-1975/?r=119424' target='_blank'>reunion details (RSVP)</a></td><td><a href='https://www.facebook.com/groups/243996008974327/' target='_blank'>Facebook group</a></td></tr><tr><td>[50th reunion](blog/post-1)</td><td>[Past reunions](blog/post-7)</td></tr><tr><td>[1975 Yearbook](blog/post-8)</td><td>[1974 Yearbook](blog/post-9)</td></tr><tr><td>[1973 Yearbook](blog/post-11)</td><td></td></tr><tr><td>[Spartan Scroll](blog/post-5)</td><td>[Graduation](blog/post-6)</td></tr><tr><td></td><td></td></tr></table>",
+        "text": "Welcome to the Reunion page for the Class of 1975.\nQuick links:<table><tr><td><a href='https://www.alumniclass.com/north-high-school-spartans-fargo-nd/reunion-class-of-1975/?r=119424' target='_blank'>reunion details (RSVP)</a></td><td><a href='https://www.facebook.com/groups/243996008974327/' target='_blank'>Facebook group</a></td></tr><tr><td>[50th reunion](blog/post-1)</td><td>[Past reunions](blog/post-7)</td></tr><tr><td>[1975 Yearbook](blog/post-8)</td><td>[1974 Yearbook](blog/post-9)</td></tr><tr><td>[1973 Yearbook](blog/post-11)</td><td>[1971 Yearbook](blog/post-12)</td></tr><tr><td>[Spartan Scroll](blog/post-5)</td><td>[Graduation](blog/post-6)</td></tr><tr><td></td><td></td></tr></table>",
         "image": {
             "src": "/images/spartan.jpeg",
             "alt": "A spartan"
